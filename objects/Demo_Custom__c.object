@@ -18,7 +18,6 @@
         <actionName>CancelEdit</actionName>
         <type>Default</type>
     </actionOverrides>
-
     <actionOverrides>
         <actionName>CancelEdit</actionName>
         <formFactor>Large</formFactor>
@@ -181,18 +180,25 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Field_Three__c</fullName>
+        <fullName>Filed_six__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Filed six</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Field_four__c</fullName>
         <externalId>false</externalId>
-        <label>Field Three</label>
+        <label>Field four</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Email</type>
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Field_four__c</fullName>
+        <fullName>Field_Three__c</fullName>
         <externalId>false</externalId>
-        <label>Field four</label>
+        <label>Field Three</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Email</type>
