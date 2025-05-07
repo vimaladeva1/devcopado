@@ -20,7 +20,9 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Field_Four_c__c</field>
+
+                <field>Filed_six__c</field>
+
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
